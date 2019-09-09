@@ -28,5 +28,5 @@ Example search URL with date range:
 * Implement a Date component in your search form so that you can search Google for only results that are after the selected date.
 
 
-
-
+### Kenn's Notes:
+It was very close, but you don't have a footer, all links have underlines and the Google buttons and input are not styled.
